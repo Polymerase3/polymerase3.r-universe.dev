@@ -1,0 +1,17 @@
+[
+  {
+    "package": "vecmatch",
+    "url": "https://github.com/Polymerase3/vecmatch",
+    "branch": "main"
+  },
+  {
+    "package": "phiper",
+    "url": "https://github.com/Polymerase3/phiper",
+    "branch": "main"
+  },
+  {
+    "package": "phiperio",
+    "url": "https://github.com/Polymerase3/phiperio",
+    "branch": "main"
+  }
+]
